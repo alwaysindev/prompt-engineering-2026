@@ -1,0 +1,5 @@
+openai>=1.66
+pandas>=2.0
+tabulate
+tiktoken
+jupyter

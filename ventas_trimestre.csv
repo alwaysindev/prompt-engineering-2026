@@ -1,0 +1,481 @@
+mes,producto,categoria,region,canal,unidades,precio_unitario,ingresos
+2025-10,Altavoz portátil Mini,Audio,Norte,Tienda,22.0,39.81,875.82
+2025-10,Altavoz portátil Mini,Audio,Centro,Online,36.0,38.8,1396.89
+2025-10,Altavoz portátil Mini,Audio,Centro,Tienda,24.0,40.44,970.44
+2025-10,Altavoz portátil Mini,Audio,Sur,Online,32.0,40.61,1299.61
+2025-10,Altavoz portátil Mini,Audio,Sur,Tienda,18.0,38.18,687.17
+2025-10,Altavoz portátil Mini,Audio,Levante,Online,34.0,39.11,1329.68
+2025-10,Altavoz portátil Mini,Audio,Norte,Online,34.0,38.13,1296.58
+2025-10,Altavoz portátil Mini,Audio,Levante,Tienda,23.0,39.46,907.64
+2025-10,Auriculares BT Zen,Audio,Levante,Tienda,27.0,59.54,1607.63
+2025-10,Auriculares BT Zen,Audio,Centro,Online,48.0,,
+2025-10,Auriculares BT Zen,Audio,Sur,Online,,54.95,1758.26
+2025-10,Auriculares BT Zen,Audio,Levante,Online,35.0,55.16,1930.75
+2025-10,Auriculares BT Zen,Audio,Sur,Tienda,24.0,60.08,1442.01
+2025-10,Auriculares BT Zen,Audio,Norte,Tienda,27.0,56.5,1525.62
+2025-10,Auriculares BT Zen,Audio,Norte,Online,27.0,56.09,1514.4
+2025-10,Auriculares BT Zen,Audio,Centro,Tienda,25.0,59.55,1488.83
+2025-10,Barra de sonido S30,Audio,Norte,Tienda,15.0,178.66,2679.84
+2025-10,Barra de sonido S30,Audio,Norte,Online,21.0,176.94,3715.75
+2025-10,Barra de sonido S30,Audio,Levante,Online,31.0,,
+2025-10,Barra de sonido S30,Audio,Sur,Tienda,14.0,167.22,2341.12
+2025-10,Barra de sonido S30,Audio,Centro,Tienda,23.0,180.09,4142.1
+2025-10,Barra de sonido S30,Audio,Levante,Tienda,21.0,171.81,3608.11
+2025-10,Barra de sonido S30,Audio,Centro,Online,27.0,181.14,4890.72
+2025-10,Barra de sonido S30,Audio,Sur,Online,23.0,169.66,3902.28
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Tienda,23.0,65.11,1497.53
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Online,33.0,63.82,2105.99
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Online,49.0,61.26,3001.73
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Online,33.0,60.41,1993.4
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Tienda,25.0,60.88,1522.04
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Online,51.0,64.54,3291.32
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Tienda,19.0,60.69,1153.13
+2025-10,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Tienda,28.0,60.41,1691.47
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Tienda,23.0,86.8,1996.43
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Online,46.0,85.34,3925.83
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Tienda,17.0,88.18,1499.1
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Tienda,14.0,86.99,1217.87
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Online,21.0,90.25,1895.29
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Tienda,21.0,88.32,1854.77
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Online,21.0,88.07,1849.38
+2025-10,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Online,40.0,88.71,3548.38
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Online,69.0,111.95,7724.84
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Online,32.0,120.19,3846.12
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Tienda,38.0,117.56,4467.2
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Tienda,37.0,117.21,4336.62
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Tienda,33.0,117.48,3876.84
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Online,32.0,120.41,3853.04
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Tienda,25.0,118.29,2957.25
+2025-10,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Online,40.0,120.8,4832.14
+2025-10,"Monitor 27"" QHD",Informática,Centro,Online,17.0,224.24,3812.14
+2025-10,"Monitor 27"" QHD",Informática,Norte,Tienda,9.0,233.51,2101.55
+2025-10,"Monitor 27"" QHD",Informática,Levante,Tienda,8.0,231.21,1849.65
+2025-10,"Monitor 27"" QHD",Informática,Levante,Online,15.0,214.64,3219.62
+2025-10,"Monitor 27"" QHD",Informática,Sur,Tienda,6.0,221.46,1328.74
+2025-10,"Monitor 27"" QHD",Informática,Norte,Online,11.0,219.49,2414.39
+2025-10,"Monitor 27"" QHD",Informática,Centro,Tienda,14.0,217.96,3051.51
+2025-10,"Monitor 27"" QHD",Informática,Sur,Online,12.0,214.11,2569.32
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Centro,Tienda,26.0,242.44,6303.39
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Sur,Tienda,14.0,240.96,3373.42
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Sur,Online,25.0,244.26,6106.54
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Norte,Online,26.0,236.77,6155.97
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Levante,Online,36.0,245.41,8834.77
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Norte,Tienda,26.0,234.95,6108.76
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Centro,Online,44.0,,
+2025-10,Robot aspirador R2,Pequeño electrodoméstico,Levante,Tienda,30.0,247.04,7411.32
+2025-10,Teclado mecánico K8,Informática,Levante,Tienda,20.0,96.3,1926.08
+2025-10,Teclado mecánico K8,Informática,Centro,Tienda,25.0,94.53,2363.15
+2025-10,Teclado mecánico K8,Informática,Norte,Tienda,24.0,97.57,2341.61
+2025-10,Teclado mecánico K8,Informática,Sur,Online,31.0,92.29,2860.87
+2025-10,Teclado mecánico K8,Informática,Levante,Online,41.0,100.57,4123.34
+2025-10,Teclado mecánico K8,Informática,Centro,Online,30.0,98.8,2964.09
+2025-10,Teclado mecánico K8,Informática,Sur,Tienda,21.0,97.72,2052.09
+2025-10,Teclado mecánico K8,Informática,Norte,Online,25.0,98.46,2461.38
+2025-10,Webcam Full HD,Informática,Norte,Tienda,12.0,43.23,518.72
+2025-10,Webcam Full HD,Informática,Centro,Online,38.0,45.15,1715.69
+2025-10,Webcam Full HD,Informática,Norte,Online,17.0,45.9,780.29
+2025-10,Webcam Full HD,Informática,Levante,Tienda,14.0,41.98,587.68
+2025-10,Webcam Full HD,Informática,Sur,Tienda,16.0,43.51,696.1
+2025-10,Webcam Full HD,Informática,Centro,Tienda,17.0,44.82,761.86
+2025-10,Webcam Full HD,Informática,Levante,Online,26.0,43.81,1139.01
+2025-10,Webcam Full HD,Informática,Sur,Online,19.0,44.37,842.94
+2025-11,Altavoz portátil Mini,Audio,Centro,Tienda,37.0,,
+2025-11,Altavoz portátil Mini,Audio,Norte,Tienda,21.0,37.71,791.87
+2025-11,Altavoz portátil Mini,Audio,Norte,Online,27.0,37.85,1022.04
+2025-11,Altavoz portátil Mini,Audio,Sur,Tienda,25.0,38.72,968.07
+2025-11,Altavoz portátil Mini,Audio,Centro,Online,38.0,40.36,1533.73
+2025-11,Altavoz portátil Mini,Audio,Levante,Tienda,21.0,38.33,805.03
+2025-11,Altavoz portátil Mini,Audio,Sur,Online,23.0,37.8,869.35
+2025-11,Altavoz portátil Mini,Audio,Levante,Online,30.0,37.97,1138.97
+2025-11,Auriculares BT Zen,Audio,Norte,Online,31.0,60.03,1860.79
+2025-11,Auriculares BT Zen,Audio,Centro,Tienda,31.0,58.55,1814.99
+2025-11,Auriculares BT Zen,Audio,Norte,Tienda,23.0,56.89,1308.53
+2025-11,Auriculares BT Zen,Audio,Levante,Online,28.0,59.56,1667.55
+2025-11,Auriculares BT Zen,Audio,Centro,Online,33.0,55.85,1843.19
+2025-11,Auriculares BT Zen,Audio,Sur,Online,26.0,56.62,1472.03
+2025-11,Auriculares BT Zen,Audio,Sur,Tienda,17.0,54.89,933.12
+2025-11,Auriculares BT Zen,Audio,Levante,Tienda,31.0,56.59,1754.23
+2025-11,Barra de sonido S30,Audio,Centro,Tienda,,168.07,4874.12
+2025-11,Barra de sonido S30,Audio,Centro,Online,30.0,174.36,5230.73
+2025-11,Barra de sonido S30,Audio,Sur,Online,22.0,178.83,3934.24
+2025-11,Barra de sonido S30,Audio,Norte,Tienda,18.0,168.62,3035.16
+2025-11,Barra de sonido S30,Audio,Norte,Online,25.0,174.3,4357.41
+2025-11,Barra de sonido S30,Audio,Sur,Tienda,17.0,171.07,2908.19
+2025-11,Barra de sonido S30,Audio,Levante,Online,26.0,,
+2025-11,Barra de sonido S30,Audio,Levante,Tienda,25.0,175.32,4382.89
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Online,34.0,65.73,2234.86
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Tienda,19.0,61.12,1161.3
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Online,46.0,,
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Online,27.0,64.18,1732.78
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Tienda,29.0,62.3,1806.61
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Online,38.0,60.09,2283.42
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Tienda,38.0,60.92,2315.05
+2025-11,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Tienda,21.0,63.2,1327.23
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Online,29.0,84.01,2436.24
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Tienda,17.0,88.23,1499.85
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Tienda,23.0,88.11,2026.55
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Online,27.0,84.4,2278.67
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Online,31.0,87.0,2696.95
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Online,25.0,89.13,2228.13
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Tienda,18.0,88.23,1588.12
+2025-11,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Tienda,20.0,84.11,1682.15
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Online,45.0,117.0,5264.89
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Tienda,26.0,117.69,3060.05
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Tienda,34.0,121.31,4124.41
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Online,41.0,116.54,4778.23
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Tienda,33.0,115.63,3815.8
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Online,40.0,117.05,4682.07
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Online,48.0,,
+2025-11,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Tienda,34.0,120.71,4104.15
+2025-11,"Monitor 27"" QHD",Informática,Sur,Online,13.0,214.36,2786.68
+2025-11,"Monitor 27"" QHD",Informática,Norte,Online,11.0,223.13,2454.43
+2025-11,"Monitor 27"" QHD",Informática,Levante,Online,16.0,216.97,3471.47
+2025-11,"Monitor 27"" QHD",Informática,Centro,Tienda,13.0,227.77,2961.07
+2025-11,"Monitor 27"" QHD",Informática,Norte,Tienda,7.0,221.72,1552.01
+2025-11,"Monitor 27"" QHD",Informática,Levante,Tienda,10.0,217.1,2171.01
+2025-11,"Monitor 27"" QHD",Informática,Sur,Tienda,6.0,218.99,1313.94
+2025-11,"Monitor 27"" QHD",Informática,Centro,Online,16.0,221.14,3538.22
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Norte,Tienda,23.0,232.78,5353.94
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Levante,Tienda,21.0,235.21,4939.35
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Sur,Tienda,15.0,245.78,3686.77
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Centro,Tienda,35.0,249.45,8730.76
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Centro,Online,40.0,240.51,9620.44
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Sur,Online,21.0,233.08,4894.66
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Norte,Online,37.0,249.05,9214.82
+2025-11,Robot aspirador R2,Pequeño electrodoméstico,Levante,Online,33.0,232.75,7680.69
+2025-11,Teclado mecánico K8,Informática,Norte,Online,27.0,96.47,2604.61
+2025-11,Teclado mecánico K8,Informática,Levante,Tienda,21.0,95.29,2001.18
+2025-11,Teclado mecánico K8,Informática,Norte,Tienda,18.0,94.31,1697.52
+2025-11,Teclado mecánico K8,Informática,Centro,Online,45.0,98.65,4439.25
+2025-11,Teclado mecánico K8,Informática,Sur,Online,26.0,94.99,2469.76
+2025-11,Teclado mecánico K8,Informática,Centro,Tienda,33.0,93.7,3092.1
+2025-11,Teclado mecánico K8,Informática,Sur,Tienda,20.0,98.96,1979.11
+2025-11,Teclado mecánico K8,Informática,Levante,Online,38.0,92.77,3525.41
+2025-11,Webcam Full HD,Informática,Centro,Tienda,22.0,44.49,978.89
+2025-11,Webcam Full HD,Informática,Sur,Online,19.0,42.06,799.1
+2025-11,Webcam Full HD,Informática,Sur,Tienda,17.0,44.55,757.43
+2025-11,Webcam Full HD,Informática,Norte,Tienda,15.0,45.07,676.1
+2025-11,Webcam Full HD,Informática,Levante,Online,25.0,41.92,1048.09
+2025-11,Webcam Full HD,Informática,Centro,Online,30.0,42.95,1288.45
+2025-11,Webcam Full HD,Informática,Norte,Online,24.0,,
+2025-11,Webcam Full HD,Informática,Levante,Tienda,20.0,45.43,908.58
+2025-12,Altavoz portátil Mini,Audio,Centro,Tienda,43.0,,
+2025-12,Altavoz portátil Mini,Audio,Norte,Online,56.0,39.8,2228.75
+2025-12,Altavoz portátil Mini,Audio,Levante,Online,58.0,40.21,2331.92
+2025-12,Altavoz portátil Mini,Audio,Norte,Tienda,28.0,39.15,1096.27
+2025-12,Altavoz portátil Mini,Audio,Sur,Online,37.0,40.58,1501.53
+2025-12,Altavoz portátil Mini,Audio,Levante,Tienda,31.0,38.91,1206.36
+2025-12,Altavoz portátil Mini,Audio,Centro,Online,66.0,38.46,2538.38
+2025-12,Altavoz portátil Mini,Audio,Sur,Tienda,26.0,37.33,970.58
+2025-12,Auriculares BT Zen,Audio,Sur,Tienda,22.0,59.21,1302.59
+2025-12,Auriculares BT Zen,Audio,Norte,Online,42.0,55.32,2323.25
+2025-12,Auriculares BT Zen,Audio,Sur,Online,33.0,57.99,1913.54
+2025-12,Auriculares BT Zen,Audio,Centro,Online,55.0,58.99,3244.55
+2025-12,Auriculares BT Zen,Audio,Levante,Online,56.0,55.32,3097.84
+2025-12,Auriculares BT Zen,Audio,Levante,Tienda,35.0,56.46,1976.14
+2025-12,Auriculares BT Zen,Audio,Centro,Tienda,39.0,58.35,2275.78
+2025-12,Auriculares BT Zen,Audio,Norte,Tienda,27.0,55.84,1507.72
+2025-12,Barra de sonido S30,Audio,Levante,Tienda,26.0,172.26,4478.82
+2025-12,Barra de sonido S30,Audio,Levante,Online,44.0,176.65,7772.43
+2025-12,Barra de sonido S30,Audio,Sur,Online,25.0,178.51,4462.8
+2025-12,Barra de sonido S30,Audio,Centro,Online,47.0,181.24,8518.08
+2025-12,Barra de sonido S30,Audio,Norte,Online,28.0,174.63,4889.69
+2025-12,Barra de sonido S30,Audio,Sur,Tienda,27.0,167.67,4527.14
+2025-12,Barra de sonido S30,Audio,Centro,Tienda,43.0,182.48,7846.76
+2025-12,Barra de sonido S30,Audio,Norte,Tienda,25.0,171.14,4278.38
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Tienda,59.0,64.56,3809.13
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Online,50.0,60.36,3017.91
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Online,84.0,60.59,5089.83
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Tienda,32.0,62.44,1997.96
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Online,69.0,64.74,4467.0
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Tienda,31.0,63.61,1971.81
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Online,50.0,61.55,3077.75
+2025-12,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Tienda,27.0,,
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Online,30.0,89.92,2697.5
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Tienda,39.0,89.9,3505.93
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Online,43.0,87.62,3767.81
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Online,47.0,86.39,4060.14
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Tienda,23.0,85.62,1969.19
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Online,55.0,91.08,5009.32
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Tienda,26.0,86.04,2236.94
+2025-12,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Tienda,31.0,88.17,2733.37
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Online,47.0,116.04,5453.76
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Tienda,45.0,110.97,4993.64
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Online,107.0,112.76,12064.93
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Online,74.0,119.6,8850.71
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Tienda,67.0,112.16,7514.81
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Online,69.0,111.77,7712.18
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Tienda,33.0,119.23,3934.63
+2025-12,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Tienda,57.0,114.16,6507.2
+2025-12,"Monitor 27"" QHD",Informática,Sur,Online,,231.97,3711.53
+2025-12,"Monitor 27"" QHD",Informática,Norte,Tienda,12.0,218.43,2621.19
+2025-12,"Monitor 27"" QHD",Informática,Levante,Online,21.0,221.53,4652.15
+2025-12,"Monitor 27"" QHD",Informática,Norte,Online,21.0,215.22,4519.55
+2025-12,"Monitor 27"" QHD",Informática,Centro,Tienda,18.0,225.54,4059.79
+2025-12,"Monitor 27"" QHD",Informática,Levante,Tienda,11.0,213.46,2348.03
+2025-12,"Monitor 27"" QHD",Informática,Sur,Tienda,13.0,214.13,2783.73
+2025-12,"Monitor 27"" QHD",Informática,Centro,Online,29.0,222.97,6466.04
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Levante,Online,51.0,242.41,12363.05
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Centro,Tienda,33.0,251.16,8288.41
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Centro,Online,65.0,,
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Sur,Tienda,24.0,239.35,5744.52
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Sur,Online,37.0,234.32,8669.95
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Levante,Tienda,42.0,253.83,10660.67
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Norte,Tienda,23.0,234.96,5404.08
+2025-12,Robot aspirador R2,Pequeño electrodoméstico,Norte,Online,36.0,239.72,8629.87
+2025-12,Teclado mecánico K8,Informática,Centro,Tienda,30.0,96.99,2909.81
+2025-12,Teclado mecánico K8,Informática,Centro,Online,52.0,100.8,5241.81
+2025-12,Teclado mecánico K8,Informática,Norte,Online,36.0,92.65,3335.28
+2025-12,Teclado mecánico K8,Informática,Levante,Online,53.0,96.05,5090.78
+2025-12,Teclado mecánico K8,Informática,Levante,Tienda,26.0,96.51,2509.3
+2025-12,Teclado mecánico K8,Informática,Sur,Online,32.0,92.82,2970.21
+2025-12,Teclado mecánico K8,Informática,Sur,Tienda,30.0,100.87,3026.15
+2025-12,Teclado mecánico K8,Informática,Norte,Tienda,24.0,98.78,2370.68
+2025-12,Webcam Full HD,Informática,Centro,Online,44.0,42.48,1869.3
+2025-12,Webcam Full HD,Informática,Levante,Online,29.0,42.43,1230.39
+2025-12,Webcam Full HD,Informática,Norte,Tienda,26.0,45.1,1172.57
+2025-12,Webcam Full HD,Informática,Norte,Online,35.0,43.43,1520.14
+2025-12,Webcam Full HD,Informática,Sur,Online,30.0,43.33,1299.81
+2025-12,Webcam Full HD,Informática,Sur,Tienda,16.0,42.22,675.46
+2025-12,Webcam Full HD,Informática,Centro,Tienda,30.0,45.67,1369.95
+2025-12,Webcam Full HD,Informática,Levante,Tienda,30.0,42.38,1271.29
+2026-01,Altavoz portátil Mini,Audio,Levante,Tienda,18.0,39.22,705.88
+2026-01,Altavoz portátil Mini,Audio,Norte,Tienda,14.0,38.08,533.12
+2026-01,Altavoz portátil Mini,Audio,Sur,Tienda,11.0,37.22,409.45
+2026-01,Altavoz portátil Mini,Audio,Levante,Online,20.0,38.51,770.26
+2026-01,Altavoz portátil Mini,Audio,Norte,Online,20.0,38.54,770.85
+2026-01,Altavoz portátil Mini,Audio,Sur,Online,22.0,40.32,887.12
+2026-01,Altavoz portátil Mini,Audio,Centro,Online,37.0,40.24,1488.94
+2026-01,Altavoz portátil Mini,Audio,Centro,Tienda,21.0,40.53,851.18
+2026-01,Auriculares BT Zen,Audio,Levante,Online,23.0,57.15,1314.43
+2026-01,Auriculares BT Zen,Audio,Centro,Online,,58.7,1760.9
+2026-01,Auriculares BT Zen,Audio,Levante,Tienda,18.0,58.67,1056.0
+2026-01,Auriculares BT Zen,Audio,Centro,Tienda,21.0,58.04,1218.79
+2026-01,Auriculares BT Zen,Audio,Sur,Online,18.0,55.64,1001.5
+2026-01,Auriculares BT Zen,Audio,Sur,Tienda,12.0,56.38,676.55
+2026-01,Auriculares BT Zen,Audio,Norte,Tienda,16.0,59.4,950.41
+2026-01,Auriculares BT Zen,Audio,Norte,Online,16.0,59.61,953.77
+2026-01,Barra de sonido S30,Audio,Sur,Online,27.0,173.17,4675.72
+2026-01,Barra de sonido S30,Audio,Sur,Tienda,18.0,173.0,3114.02
+2026-01,Barra de sonido S30,Audio,Levante,Tienda,21.0,168.42,3536.77
+2026-01,Barra de sonido S30,Audio,Levante,Online,29.0,171.7,4979.26
+2026-01,Barra de sonido S30,Audio,Centro,Tienda,31.0,172.82,5357.38
+2026-01,Barra de sonido S30,Audio,Norte,Tienda,17.0,168.29,2860.85
+2026-01,Barra de sonido S30,Audio,Norte,Online,25.0,174.49,4362.27
+2026-01,Barra de sonido S30,Audio,Centro,Online,31.0,181.77,5634.99
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Tienda,31.0,60.47,1874.6
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Tienda,35.0,60.5,2117.65
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Tienda,20.0,60.85,1217.04
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Online,36.0,63.98,2303.28
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Online,40.0,63.3,2531.89
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Online,46.0,60.37,2777.1
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Tienda,20.0,60.41,1208.11
+2026-01,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Online,36.0,63.67,2292.05
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Tienda,21.0,84.24,1768.94
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Tienda,22.0,86.37,1900.24
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Tienda,19.0,88.53,1682.15
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Online,22.0,87.75,1930.48
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Online,25.0,89.99,2249.79
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Online,30.0,87.63,2628.77
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Tienda,26.0,86.36,2245.33
+2026-01,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Online,47.0,,
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Tienda,64.0,116.2,7437.09
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Online,77.0,112.27,8645.13
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Online,93.0,120.08,11166.99
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Tienda,29.0,112.3,3256.59
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Online,69.0,117.77,8125.79
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Tienda,31.0,118.59,3676.43
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Tienda,53.0,117.19,6210.94
+2026-01,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Online,52.0,120.02,6240.92
+2026-01,"Monitor 27"" QHD",Informática,Norte,Tienda,11.0,216.76,2384.41
+2026-01,"Monitor 27"" QHD",Informática,Levante,Tienda,11.0,227.92,2507.12
+2026-01,"Monitor 27"" QHD",Informática,Levante,Online,20.0,233.27,4665.41
+2026-01,"Monitor 27"" QHD",Informática,Sur,Online,13.0,222.61,2893.9
+2026-01,"Monitor 27"" QHD",Informática,Centro,Online,16.0,216.38,3462.14
+2026-01,"Monitor 27"" QHD",Informática,Sur,Tienda,8.0,226.42,1811.34
+2026-01,"Monitor 27"" QHD",Informática,Norte,Online,14.0,227.65,3187.03
+2026-01,"Monitor 27"" QHD",Informática,Centro,Tienda,13.0,215.3,2798.94
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Centro,Online,18.0,252.88,4551.87
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Levante,Online,23.0,247.17,5684.95
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Sur,Tienda,11.0,234.86,2583.41
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Centro,Tienda,19.0,235.19,4468.57
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Sur,Online,15.0,232.18,3482.64
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Norte,Tienda,9.0,233.86,2104.74
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Levante,Tienda,14.0,253.5,3548.97
+2026-01,Robot aspirador R2,Pequeño electrodoméstico,Norte,Online,16.0,237.5,3800.05
+2026-01,Teclado mecánico K8,Informática,Sur,Online,27.0,95.39,2575.62
+2026-01,Teclado mecánico K8,Informática,Norte,Online,31.0,,
+2026-01,Teclado mecánico K8,Informática,Levante,Tienda,27.0,93.84,2533.81
+2026-01,Teclado mecánico K8,Informática,Sur,Tienda,21.0,94.69,1988.44
+2026-01,Teclado mecánico K8,Informática,Centro,Tienda,32.0,99.62,3187.73
+2026-01,Teclado mecánico K8,Informática,Norte,Tienda,18.0,95.78,1724.11
+2026-01,Teclado mecánico K8,Informática,Levante,Online,30.0,94.26,2827.68
+2026-01,Teclado mecánico K8,Informática,Centro,Online,44.0,93.15,4098.58
+2026-01,Webcam Full HD,Informática,Norte,Tienda,15.0,43.46,651.85
+2026-01,Webcam Full HD,Informática,Norte,Online,19.0,45.61,866.5
+2026-01,Webcam Full HD,Informática,Sur,Online,16.0,44.9,718.43
+2026-01,Webcam Full HD,Informática,Sur,Tienda,10.0,42.12,421.22
+2026-01,Webcam Full HD,Informática,Levante,Online,20.0,45.24,904.82
+2026-01,Webcam Full HD,Informática,Levante,Tienda,17.0,45.11,766.85
+2026-01,Webcam Full HD,Informática,Centro,Tienda,20.0,42.55,850.91
+2026-01,Webcam Full HD,Informática,Centro,Online,24.0,42.51,1020.13
+2026-02,Altavoz portátil Mini,Audio,Levante,Online,27.0,37.25,1005.72
+2026-02,Altavoz portátil Mini,Audio,Norte,Tienda,19.0,40.07,761.36
+2026-02,Altavoz portátil Mini,Audio,Norte,Online,27.0,40.6,1096.15
+2026-02,Altavoz portátil Mini,Audio,Centro,Tienda,19.0,37.5,712.47
+2026-02,Altavoz portátil Mini,Audio,Levante,Tienda,21.0,38.75,813.73
+2026-02,Altavoz portátil Mini,Audio,Sur,Online,23.0,39.43,906.93
+2026-02,Altavoz portátil Mini,Audio,Centro,Online,26.0,38.98,1013.55
+2026-02,Altavoz portátil Mini,Audio,Sur,Tienda,15.0,40.49,607.32
+2026-02,Auriculares BT Zen,Audio,Centro,Online,20.0,58.52,1170.3
+2026-02,Auriculares BT Zen,Audio,Centro,Tienda,19.0,59.19,1124.54
+2026-02,Auriculares BT Zen,Audio,Norte,Tienda,15.0,57.55,863.32
+2026-02,Auriculares BT Zen,Audio,Levante,Tienda,12.0,55.09,661.11
+2026-02,Auriculares BT Zen,Audio,Sur,Online,21.0,58.28,1223.96
+2026-02,Auriculares BT Zen,Audio,Norte,Online,23.0,58.87,1353.96
+2026-02,Auriculares BT Zen,Audio,Levante,Online,24.0,59.97,1439.16
+2026-02,Auriculares BT Zen,Audio,Sur,Tienda,14.0,58.65,821.05
+2026-02,Barra de sonido S30,Audio,Levante,Tienda,25.0,180.23,4505.8
+2026-02,Barra de sonido S30,Audio,Norte,Online,33.0,169.62,5597.57
+2026-02,Barra de sonido S30,Audio,Sur,Online,19.0,181.38,3446.19
+2026-02,Barra de sonido S30,Audio,Centro,Online,33.0,167.52,5528.05
+2026-02,Barra de sonido S30,Audio,Norte,Tienda,17.0,172.89,2939.06
+2026-02,Barra de sonido S30,Audio,Levante,Online,,167.3,4684.44
+2026-02,Barra de sonido S30,Audio,Sur,Tienda,16.0,180.49,2887.76
+2026-02,Barra de sonido S30,Audio,Centro,Tienda,20.0,178.39,3567.8
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Tienda,27.0,62.62,1690.72
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Tienda,23.0,61.8,1421.31
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Online,25.0,60.28,1506.94
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Tienda,39.0,61.54,2400.06
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Online,31.0,63.2,1959.06
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Tienda,,60.62,1091.17
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Online,35.0,64.39,2253.79
+2026-02,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Online,38.0,63.04,2395.66
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Tienda,29.0,84.13,2439.85
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Online,22.0,85.79,1887.4
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Online,39.0,86.48,3372.84
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Online,24.0,89.41,2145.73
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Tienda,18.0,89.12,1604.14
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Online,43.0,86.11,3702.82
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Tienda,22.0,84.16,1851.59
+2026-02,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Tienda,27.0,86.41,2333.19
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Online,79.0,118.99,9399.91
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Tienda,42.0,111.28,4673.7
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Online,47.0,111.33,5232.58
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Tienda,37.0,115.51,4273.97
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Online,43.0,111.12,4778.24
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Tienda,33.0,117.3,3870.92
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Tienda,60.0,116.35,6981.24
+2026-02,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Online,51.0,120.24,6132.49
+2026-02,"Monitor 27"" QHD",Informática,Sur,Tienda,9.0,228.81,2059.32
+2026-02,"Monitor 27"" QHD",Informática,Centro,Tienda,14.0,231.21,3236.99
+2026-02,"Monitor 27"" QHD",Informática,Sur,Online,12.0,229.54,2754.47
+2026-02,"Monitor 27"" QHD",Informática,Norte,Tienda,10.0,215.22,2152.16
+2026-02,"Monitor 27"" QHD",Informática,Levante,Online,15.0,224.13,3361.96
+2026-02,"Monitor 27"" QHD",Informática,Centro,Online,21.0,228.61,4800.79
+2026-02,"Monitor 27"" QHD",Informática,Levante,Tienda,9.0,227.51,2047.55
+2026-02,"Monitor 27"" QHD",Informática,Norte,Online,12.0,214.63,2575.61
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Norte,Online,14.0,248.87,3484.17
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Centro,Online,21.0,236.57,4967.94
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Sur,Tienda,12.0,253.64,3043.71
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Sur,Online,18.0,249.63,4493.42
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Levante,Online,17.0,243.17,4133.89
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Centro,Tienda,16.0,249.03,3984.46
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Levante,Tienda,16.0,248.15,3970.41
+2026-02,Robot aspirador R2,Pequeño electrodoméstico,Norte,Tienda,10.0,239.79,2397.88
+2026-02,Teclado mecánico K8,Informática,Levante,Online,40.0,100.22,4008.68
+2026-02,Teclado mecánico K8,Informática,Centro,Online,41.0,94.13,3859.4
+2026-02,Teclado mecánico K8,Informática,Sur,Online,33.0,92.98,3068.4
+2026-02,Teclado mecánico K8,Informática,Sur,Tienda,21.0,97.89,2055.71
+2026-02,Teclado mecánico K8,Informática,Centro,Tienda,27.0,100.91,2724.64
+2026-02,Teclado mecánico K8,Informática,Norte,Tienda,17.0,99.95,1699.11
+2026-02,Teclado mecánico K8,Informática,Norte,Online,31.0,,
+2026-02,Teclado mecánico K8,Informática,Levante,Tienda,23.0,99.37,2285.47
+2026-02,Webcam Full HD,Informática,Norte,Tienda,10.0,45.55,455.47
+2026-02,Webcam Full HD,Informática,Centro,Tienda,19.0,42.2,801.79
+2026-02,Webcam Full HD,Informática,Sur,Tienda,14.0,44.44,622.21
+2026-02,Webcam Full HD,Informática,Levante,Online,21.0,44.14,926.94
+2026-02,Webcam Full HD,Informática,Norte,Online,17.0,44.31,753.29
+2026-02,Webcam Full HD,Informática,Sur,Online,19.0,44.37,842.94
+2026-02,Webcam Full HD,Informática,Levante,Tienda,16.0,42.64,682.31
+2026-02,Webcam Full HD,Informática,Centro,Online,29.0,44.64,1294.48
+2026-03,Altavoz portátil Mini,Audio,Centro,Tienda,20.0,37.57,751.33
+2026-03,Altavoz portátil Mini,Audio,Levante,Online,23.0,39.27,903.1
+2026-03,Altavoz portátil Mini,Audio,Sur,Online,16.0,38.99,623.84
+2026-03,Altavoz portátil Mini,Audio,Norte,Online,28.0,,
+2026-03,Altavoz portátil Mini,Audio,Levante,Tienda,19.0,38.5,731.51
+2026-03,Altavoz portátil Mini,Audio,Norte,Tienda,18.0,37.94,682.96
+2026-03,Altavoz portátil Mini,Audio,Centro,Online,28.0,39.39,1102.97
+2026-03,Altavoz portátil Mini,Audio,Sur,Tienda,15.0,37.51,562.65
+2026-03,Auriculares BT Zen,Audio,Levante,Tienda,16.0,58.83,941.28
+2026-03,Auriculares BT Zen,Audio,Centro,Tienda,19.0,56.17,1067.2
+2026-03,Auriculares BT Zen,Audio,Sur,Online,21.0,55.36,1162.52
+2026-03,Auriculares BT Zen,Audio,Sur,Tienda,9.0,59.82,538.39
+2026-03,Auriculares BT Zen,Audio,Levante,Online,22.0,59.17,1301.67
+2026-03,Auriculares BT Zen,Audio,Norte,Online,15.0,54.97,824.55
+2026-03,Auriculares BT Zen,Audio,Norte,Tienda,13.0,57.27,744.47
+2026-03,Auriculares BT Zen,Audio,Centro,Online,24.0,57.3,1375.11
+2026-03,Barra de sonido S30,Audio,Centro,Online,43.0,179.12,7702.1
+2026-03,Barra de sonido S30,Audio,Norte,Tienda,20.0,176.7,3533.99
+2026-03,Barra de sonido S30,Audio,Norte,Online,22.0,182.11,4006.5
+2026-03,Barra de sonido S30,Audio,Sur,Tienda,16.0,166.94,2671.0
+2026-03,Barra de sonido S30,Audio,Sur,Online,27.0,172.91,4668.7
+2026-03,Barra de sonido S30,Audio,Levante,Tienda,26.0,175.4,4560.33
+2026-03,Barra de sonido S30,Audio,Centro,Tienda,25.0,171.55,4288.86
+2026-03,Barra de sonido S30,Audio,Levante,Online,27.0,167.77,4529.74
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Tienda,21.0,62.89,1320.65
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Online,37.0,62.86,2325.76
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Tienda,24.0,61.44,1474.53
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Norte,Online,28.0,62.0,1735.98
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Tienda,21.0,,
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Centro,Online,35.0,64.24,2248.42
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Levante,Tienda,22.0,64.74,1424.25
+2026-03,Batidora de vaso Pro,Pequeño electrodoméstico,Sur,Online,29.0,65.41,1896.91
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Online,46.0,87.62,4030.71
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Tienda,20.0,87.6,1752.03
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Online,36.0,91.59,3297.19
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Centro,Tienda,30.0,86.83,2604.79
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Online,22.0,84.71,1863.73
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Levante,Tienda,22.0,88.06,1937.29
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Norte,Online,24.0,85.93,2062.38
+2026-03,Cafetera Aroma X,Pequeño electrodoméstico,Sur,Tienda,14.0,86.86,1215.99
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Online,80.0,119.32,9545.35
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Tienda,36.0,113.32,4079.61
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Sur,Online,52.0,120.05,6242.69
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Centro,Tienda,47.0,113.64,5341.02
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Tienda,57.0,120.55,6871.52
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Levante,Online,80.0,112.84,9027.18
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Tienda,31.0,114.16,3538.88
+2026-03,Freidora de aire 5L,Pequeño electrodoméstico,Norte,Online,71.0,,
+2026-03,"Monitor 27"" QHD",Informática,Centro,Tienda,15.0,218.08,3271.22
+2026-03,"Monitor 27"" QHD",Informática,Norte,Tienda,10.0,219.63,2196.33
+2026-03,"Monitor 27"" QHD",Informática,Centro,Online,22.0,221.31,4868.87
+2026-03,"Monitor 27"" QHD",Informática,Levante,Online,18.0,220.45,3968.12
+2026-03,"Monitor 27"" QHD",Informática,Levante,Tienda,10.0,214.27,2142.65
+2026-03,"Monitor 27"" QHD",Informática,Sur,Online,15.0,214.25,3213.72
+2026-03,"Monitor 27"" QHD",Informática,Sur,Tienda,9.0,222.53,2002.81
+2026-03,"Monitor 27"" QHD",Informática,Norte,Online,17.0,222.75,3786.75
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Centro,Tienda,14.0,247.09,3459.25
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Norte,Tienda,11.0,232.22,2554.41
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Norte,Online,13.0,237.83,3091.81
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Sur,Tienda,13.0,253.71,3298.26
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Sur,Online,18.0,239.74,4315.35
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Levante,Online,17.0,236.15,4014.55
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Levante,Tienda,12.0,236.65,2839.84
+2026-03,Robot aspirador R2,Pequeño electrodoméstico,Centro,Online,29.0,241.59,7006.18
+2026-03,Teclado mecánico K8,Informática,Norte,Tienda,16.0,94.69,1514.99
+2026-03,Teclado mecánico K8,Informática,Norte,Online,24.0,93.76,2250.22
+2026-03,Teclado mecánico K8,Informática,Sur,Online,23.0,99.0,2277.0
+2026-03,Teclado mecánico K8,Informática,Levante,Tienda,29.0,93.01,2697.36
+2026-03,Teclado mecánico K8,Informática,Centro,Online,50.0,95.39,4769.33
+2026-03,Teclado mecánico K8,Informática,Sur,Tienda,21.0,96.07,2017.5
+2026-03,Teclado mecánico K8,Informática,Centro,Tienda,35.0,97.27,3404.32
+2026-03,Teclado mecánico K8,Informática,Levante,Online,36.0,97.59,3513.37
+2026-03,Webcam Full HD,Informática,Sur,Online,18.0,44.55,801.99
+2026-03,Webcam Full HD,Informática,Levante,Online,21.0,45.29,951.06
+2026-03,Webcam Full HD,Informática,Norte,Tienda,10.0,45.65,456.51
+2026-03,Webcam Full HD,Informática,Sur,Tienda,14.0,45.26,633.67
+2026-03,Webcam Full HD,Informática,Centro,Online,30.0,42.63,1278.9
+2026-03,Webcam Full HD,Informática,Levante,Tienda,14.0,43.43,608.0
+2026-03,Webcam Full HD,Informática,Centro,Tienda,15.0,45.78,686.72
+2026-03,Webcam Full HD,Informática,Norte,Online,15.0,43.3,649.57
